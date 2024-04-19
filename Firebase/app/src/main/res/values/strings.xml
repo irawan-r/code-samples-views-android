@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="try_me">Try me!</string>
+    <string name="roll_me">Roll me!</string>
+</resources>

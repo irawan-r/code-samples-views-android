@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939706032917",
+    "project_id": "fir-c5548",
+    "storage_bucket": "fir-c5548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939706032917:android:ce29fc19d99fa7ac5dbf1c",
+        "android_client_info": {
+          "package_name": "com.amora.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbw9qiya9jIyCW4lIAcv2mknR-rMiZis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
