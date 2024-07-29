@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
             super.onScrollStateChanged(recyclerView, newState)
             val position = rvLayoutManager.findFirstCompletelyVisibleItemPosition()
             val item = list[position]
-            println("newState: $newState")
+            println("newState: $newState, position: ${position}")
             when (item) {
                 is Header -> header.isVisible = false
                 is Content -> {
